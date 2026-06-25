@@ -1,5 +1,11 @@
 # @accelbyte/sdk-ehs
 
+## 1.0.5
+
+### Patch Changes
+
+- c2fd899: fix(deps): update security vulnerability alerts (axios, ws, dompurify, vite)
+
 ## 1.0.4
 
 ### Patch Changes

@@ -672,7 +672,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@accelbyte/sdk-iam@npm:6.3.4, @accelbyte/sdk-iam@workspace:*, @accelbyte/sdk-iam@workspace:packages/sdk-iam":
+"@accelbyte/sdk-iam@npm:6.3.5, @accelbyte/sdk-iam@workspace:*, @accelbyte/sdk-iam@workspace:packages/sdk-iam":
   version: 0.0.0-use.local
   resolution: "@accelbyte/sdk-iam@workspace:packages/sdk-iam"
   dependencies:
@@ -779,7 +779,7 @@ __metadata:
   resolution: "@accelbyte/sdk-legal@workspace:packages/sdk-legal"
   dependencies:
     "@accelbyte/sdk": "workspace:*"
-    "@accelbyte/sdk-iam": "npm:6.3.4"
+    "@accelbyte/sdk-iam": "npm:6.3.5"
     "@accelbyte/validator": "npm:0.3.1"
     "@tanstack/react-query": "npm:4.36.1"
     "@types/crypto-js": "npm:4.1.0"
