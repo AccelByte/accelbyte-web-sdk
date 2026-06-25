@@ -1,5 +1,11 @@
 # @accelbyte/sdk-extend-app-ui
 
+## 0.2.2
+
+### Patch Changes
+
+- c2fd899: fix(deps): update security vulnerability alerts (axios, ws, dompurify, vite)
+
 ## 0.2.1
 
 ### Patch Changes

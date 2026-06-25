@@ -1,5 +1,11 @@
 # @accelbyte/sdk-event
 
+## 6.2.7
+
+### Patch Changes
+
+- c2fd899: fix(deps): update security vulnerability alerts (axios, ws, dompurify, vite)
+
 ## 6.2.6
 
 ### Patch Changes

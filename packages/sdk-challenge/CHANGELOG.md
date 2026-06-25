@@ -1,5 +1,11 @@
 # @accelbyte/sdk-challenge
 
+## 5.3.5
+
+### Patch Changes
+
+- c2fd899: fix(deps): update security vulnerability alerts (axios, ws, dompurify, vite)
+
 ## 5.3.4
 
 ### Patch Changes

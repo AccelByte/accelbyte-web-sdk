@@ -1,5 +1,11 @@
 # @accelbyte/sdk-differ
 
+## 5.2.7
+
+### Patch Changes
+
+- c2fd899: fix(deps): update security vulnerability alerts (axios, ws, dompurify, vite)
+
 ## 5.2.6
 
 ### Patch Changes
