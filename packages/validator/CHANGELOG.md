@@ -1,5 +1,11 @@
 # @accelbyte/validator
 
+## 0.3.1
+
+### Patch Changes
+
+- 6861cfa: AAX-2625 add adllowedNamespaces field to ExtensionModule
+
 ## 0.3.0
 
 ### Minor Changes

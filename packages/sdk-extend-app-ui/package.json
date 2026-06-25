@@ -1,6 +1,6 @@
 {
   "name": "@accelbyte/sdk-extend-app-ui",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "AccelByte Inc",
   "license": "SEE LICENSE IN LICENSE",
   "main": "./dist/index.cjs",
@@ -31,7 +31,7 @@
     "@accelbyte/sdk-iam": "^6.3.2",
     "@tanstack/react-query": "^4.36.1 || ^5.0.0",
     "react": "^17.0.0 || ^18.0.0 || ^19.0.0",
-    "vite": "^7.3.2"
+    "vite": "^7.3.5"
   },
   "devDependencies": {
     "@accelbyte/sdk": "workspace:*",
@@ -50,13 +50,13 @@
     "rimraf": "4.4.1",
     "tsup": "8.3.5",
     "typescript": "5.8.3",
-    "vite": "7.3.2",
+    "vite": "7.3.5",
     "vite-tsconfig-paths": "6.1.1",
-    "vitest": "3.1.1"
+    "vitest": "3.2.6"
   },
   "sideEffects": false,
   "dependencies": {
-    "@accelbyte/validator": "0.3.0",
+    "@accelbyte/validator": "0.3.1",
     "cookie": "0.7.2",
     "http-proxy": "1.18.1"
   }

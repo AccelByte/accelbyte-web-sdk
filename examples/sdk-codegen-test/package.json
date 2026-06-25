@@ -1,6 +1,6 @@
 {
   "name": "sdk-codegen-test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": true,
   "author": "AccelByte Inc",
   "license": "SEE LICENSE IN LICENSE",
@@ -17,7 +17,7 @@
     "@accelbyte/codegen": "workspace:*",
     "@accelbyte/sdk": "workspace:*",
     "@tanstack/react-query": "5.62.16",
-    "axios": "1.13.5",
+    "axios": "1.16.0",
     "react": "19.0.0",
     "zod": "3.23.8"
   },

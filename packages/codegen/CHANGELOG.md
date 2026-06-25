@@ -1,5 +1,11 @@
 # @accelbyte/codegen
 
+## 4.2.2
+
+### Patch Changes
+
+- af06964: fix(codegen): support downloading swagger specs over http
+
 ## 4.2.1
 
 ### Patch Changes

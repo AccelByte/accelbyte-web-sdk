@@ -1,5 +1,12 @@
 # @accelbyte/sdk-chat
 
+## 6.3.4
+
+### Patch Changes
+
+- Updated dependencies [6861cfa]
+  - @accelbyte/validator@0.3.1
+
 ## 6.3.3
 
 ### Patch Changes
