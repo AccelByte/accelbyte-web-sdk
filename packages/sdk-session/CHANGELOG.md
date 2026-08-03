@@ -1,5 +1,11 @@
 # @accelbyte/sdk-session
 
+## 5.3.5
+
+### Patch Changes
+
+- fd03427: fix(deps): update security vulnerability alerts (axios, ws, dompurify, vite)
+
 ## 5.3.4
 
 ### Patch Changes

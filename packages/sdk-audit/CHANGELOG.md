@@ -1,5 +1,11 @@
 # @accelbyte/sdk-audit
 
+## 6.0.5
+
+### Patch Changes
+
+- fd03427: fix(deps): update security vulnerability alerts (axios, ws, dompurify, vite)
+
 ## 6.0.4
 
 ### Patch Changes

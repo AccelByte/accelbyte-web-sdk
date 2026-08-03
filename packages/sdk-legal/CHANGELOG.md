@@ -1,5 +1,13 @@
 # @accelbyte/sdk-legal
 
+## 6.3.5
+
+### Patch Changes
+
+- fd03427: fix(deps): update security vulnerability alerts (axios, ws, dompurify, vite)
+- Updated dependencies [fd03427]
+  - @accelbyte/sdk-iam@6.3.5
+
 ## 6.3.4
 
 ### Patch Changes

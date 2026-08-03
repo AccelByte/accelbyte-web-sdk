@@ -1,5 +1,11 @@
 # @accelbyte/sdk-csm
 
+## 1.0.5
+
+### Patch Changes
+
+- fd03427: fix(deps): update security vulnerability alerts (axios, ws, dompurify, vite)
+
 ## 1.0.4
 
 ### Patch Changes

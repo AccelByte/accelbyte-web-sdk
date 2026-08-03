@@ -14,6 +14,7 @@
     "prepare": "husky install",
     "changeset:version": "changeset version && yarn install --mode=update-lockfile",
     "changeset:tag": "changeset tag",
+    "changeset:renovate": "node ./scripts/publishing/create-renovate-changeset.mjs",
     "sync-examples-versions": "node ./scripts/examples/sync-versions.js",
     "sync:package": "node ./scripts/update/update-packages.mjs"
   },

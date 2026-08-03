@@ -1,6 +1,6 @@
 {
   "name": "@accelbyte/sdk-challenge",
-  "version": "5.3.4",
+  "version": "5.3.5",
   "author": "AccelByte Inc",
   "license": "SEE LICENSE IN LICENSE",
   "main": "./src/index.ts",
@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@accelbyte/validator": "0.3.1",
-    "axios": "1.16.0",
+    "axios": "1.18.0",
     "buffer": "6.0.3",
     "crypto-js": "4.2.0",
     "platform": "1.3.6",

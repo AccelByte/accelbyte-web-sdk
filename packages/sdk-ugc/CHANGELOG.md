@@ -1,5 +1,11 @@
 # @accelbyte/sdk-ugc
 
+## 6.2.7
+
+### Patch Changes
+
+- fd03427: fix(deps): update security vulnerability alerts (axios, ws, dompurify, vite)
+
 ## 6.2.6
 
 ### Patch Changes

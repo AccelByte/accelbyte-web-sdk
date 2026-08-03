@@ -1,6 +1,6 @@
 {
   "name": "@accelbyte/sdk-config",
-  "version": "6.2.6",
+  "version": "6.2.7",
   "author": "AccelByte Inc",
   "license": "SEE LICENSE IN LICENSE",
   "main": "./src/index.ts",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@accelbyte/validator": "0.3.1",
-    "axios": "1.16.0",
+    "axios": "1.18.0",
     "buffer": "6.0.3",
     "crypto-js": "4.2.0",
     "lodash": "4.18.1",
